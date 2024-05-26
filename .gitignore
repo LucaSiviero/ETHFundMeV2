@@ -15,3 +15,7 @@ docs/
 
 lib/
 .gas-snapshot
+
+front-end/dist
+front-end/yarn.lock
+front-end/node_modules
