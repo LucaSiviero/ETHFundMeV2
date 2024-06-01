@@ -1,0 +1,19 @@
+{
+  "name": "next-js-web3-react",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@ethersproject/providers": "^5.7.2",
+    "@web3-react/core": "^8.2.3",
+    "ethers": "5.7.2",
+    "next": "14.2.3",
+    "react": "^18",
+    "react-dom": "^18"
+  }
+}
